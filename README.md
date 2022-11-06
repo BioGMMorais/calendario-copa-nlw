@@ -21,6 +21,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendário copa" src=".github/preview.png" width="100%">
 </p>
 
+[🔗 Clique aqui para acessar](https://biogmmorais.github.io/calendario-copa-nlw)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
